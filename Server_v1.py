@@ -8,8 +8,8 @@ HOST = 'localhost'
 PORT = 9098
 ADDR = (HOST, PORT)
 BUF_SIZE = 1024  # Buffer size for receiving data
-PAINT_PATH = r"C:\Windows\System32\mspaint.exe"  # Path to MS Paint
-MEDIA_PLAYER = r"C:\Users\Ilan\Documents\wmplayer.exe"  # Path to Windows Media Player
+PAINT_PATH = r"C:\YOUR\PATH\TO\mspaint.exe"  # Path to MS Paint
+MEDIA_PLAYER = r"C:\YOUR\PATH\TO\wmplayer.exe"  # Path to Windows Media Player
 
 # Create and configure the server socket
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
