@@ -1,7 +1,7 @@
 
 # Project Overview
 
-This project implements a basic client-server communication system where the client can send messages or files to the server. The server can process incoming messages and files, and the client can receive responses from the server. The server can also launch external applications (like Paint and Windows Media Player) when receiving certain types of files (such as images and media files).
+This project implements a client-server communication system where the client can send messages or files to the server. The server can process incoming messages and files, and the client can receive responses from the server. The server can also launch external applications (like Paint and Windows Media Player) when receiving certain types of files (such as images and media files).
 
 ## Project Structure
 
